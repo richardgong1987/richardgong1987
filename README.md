@@ -1,49 +1,52 @@
 # Hanjin Gong (Richard Gong)
 
-**Senior Full-Stack / FinTech Engineer · Financial Software Engineer · Quantitative Developer**
-Tokyo, Japan · Open to relocation
+**Senior Software Engineer | Financial Systems, Backend & Full-Stack Development**
 
-[![CV](https://img.shields.io/badge/CV-read%20online-0a66c2?style=flat-square)](https://ilovestudy.github.io/richardresume.io/)
-[![PDF](https://img.shields.io/badge/CV-download%20PDF-b5121b?style=flat-square)](https://ilovestudy.github.io/richardresume.io/gong_hanjin_english.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hanjin--gong-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanjin-gong-algorithms/)
-[![Email](https://img.shields.io/badge/Email-richardgong1988-ea4335?style=flat-square&logo=gmail)](mailto:richardgong1988@gmail.com)
+Tokyo, Japan · 18 years of software development experience · Open to relocation
 
----
+[Read my CV](https://ilovestudy.github.io/richardresume.io/) ·
+[Download CV (PDF)](https://ilovestudy.github.io/richardresume.io/gong_hanjin_english.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/hanjin-gong-algorithms/) ·
+[Email](mailto:richardgong1988@gmail.com)
 
-18 years of professional software development across **sell-side trading, retail
-banking, payments and high-traffic consumer platforms**. Currently building backend,
-quantitative and trader-facing capability for a **Japan Government Bond (JGB)
-portfolio optimisation and risk analytics platform** at a tier-1 Japanese investment
-bank — turning PM and trader requirements into **convex optimisation models (CVXPY)**,
-designing **low-latency risk APIs**, and owning the stack from market-data ingestion
-through to the browser.
+I build financial applications that connect trading and risk requirements with backend services, data pipelines and usable interfaces. My background spans **investment banking, retail banking, payments and consumer platforms**, including engineering work at **Nomura, HSBC and Ctrip**.
 
-### What I work on
+My financial-software work includes **Japanese government bond (JGB) portfolio optimisation and risk analytics**, using Python and CVXPY alongside backend and trader-facing application development. I work across the delivery lifecycle: understanding requirements, implementing features, integrating systems and automating deployment.
 
-- **Fixed income & risk** — yield-curve bootstrapping, DV01 and key-rate duration, convexity, repo/GC financing, scenario PnL
-- **Quantitative development** — convex optimisation (CVXPY, ECOS, OSQP), portfolio mathematics, backtesting and walk-forward validation
-- **Algorithmic trading** — cTrader Automate (C#), MQL5 Expert Advisors, Pine Script; live strategies with explicit R-multiple risk controls
-- **Distributed backends** — event-driven microservices, CQRS, Kafka, Redis, kdb+/q tick stores, gRPC, FIX 4.4
-- **Platform & delivery** — Docker, Kubernetes, AWS, Azure, GitLab CI/CD, Jenkins, Ansible, Terraform, Datadog
+Alongside my professional work, I develop **automated trading strategies in C# with cTrader Automate**, with a focus on position sizing, execution logic, backtesting and explicit risk controls.
 
-### Tech
+## Engineering focus
 
-![Java](https://img.shields.io/badge/Java-16%20yrs-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23%20/%20.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-18%2B%20yrs-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-10%20yrs-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-10%20yrs-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![kdb+](https://img.shields.io/badge/kdb%2B%20%2F%20q-1E5C9A?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+- **Financial systems:** portfolio optimisation, fixed-income risk, scenario PnL, market data and trading workflows.
+- **Backend and full-stack delivery:** C#/.NET, Java, Python, Go and TypeScript/JavaScript; APIs, data integration and frontend applications.
+- **Delivery automation:** GitLab CI/CD, Jenkins and Ansible, with Docker and Kubernetes for containerised environments.
+- **Independent trading development:** event-driven strategies, indicator components and position management; evaluating behaviour through backtests and live observation.
 
----
+## Explore my public work
 
-**Previously:** Nomura · Nisshin · HSBC Bank · SurLead · Ctrip
-**Studying:** MSc Computer Science, University of Liverpool (expected 2028)
-**Spoken:** English (fluent) · Chinese (native)
+These repositories are personal and educational projects. They provide examples to explore alongside the professional experience described in my CV.
 
-Open to **senior full-stack, backend, fintech, quantitative-development,
-platform-engineering and architecture** roles — particularly on trading, risk and
-market-data systems.
+| Project | What to explore | Technologies |
+| --- | --- | --- |
+| [Kubernetes lab with Ansible](https://github.com/richardgong1987/k8s-demo) | A three-node lab with reusable provisioning roles, a verification playbook and a sample application. Includes walkthroughs of deployment, scaling and recovery. | Ansible, Kubernetes, kubeadm, Linux, NestJS |
+| [Record Management System](https://github.com/richardgong1987/record-management-system) | A University of Liverpool **group project**: desktop record management with separated GUI and application logic, unit and integration tests, and workflows for cross-platform releases. | Python, pytest, GitHub Actions |
+
+I also maintain an [AI-assisted learning roadmap](https://github.com/richardgong1987/ai-learning-roadmap) with structured tracks, lesson notes and progress records for mathematics, algorithms and database systems.
+
+## Technical toolkit
+
+| Area | Tools and technologies |
+| --- | --- |
+| Application development | C# / .NET, Java, Python, Go, TypeScript / JavaScript |
+| Backend and frontend | Spring Boot, FastAPI, Flask, Node.js, NestJS, React, Next.js, Angular |
+| Data and messaging | SQL, Redis, Kafka, kdb+ / q |
+| Quantitative development | CVXPY, NumPy, pandas, cTrader Automate, Pine Script, MQL5 |
+| Infrastructure and delivery | Docker, Kubernetes, GitLab CI/CD, Jenkins, Ansible, AWS, Azure |
+
+## Background and contact
+
+- **Education:** MSc Computer Science, University of Liverpool — in progress.
+- **Languages:** English (fluent) and Chinese (native).
+- **Opportunities:** Senior backend, full-stack and financial-software engineering roles, especially in trading, risk and market-data systems. Open to relocation to the **UK, Canada or Australia**.
+
+For relevant opportunities, contact me through [LinkedIn](https://www.linkedin.com/in/hanjin-gong-algorithms/) or [email](mailto:richardgong1988@gmail.com). My [full CV](https://ilovestudy.github.io/richardresume.io/) contains the detailed employment history.
