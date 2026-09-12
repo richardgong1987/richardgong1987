@@ -4,8 +4,8 @@
 
 Tokyo, Japan · 18 years of software development experience · Open to relocation
 
-[Read my CV](https://ilovestudy.github.io/richardresume.io/) ·
-[Download CV (PDF)](https://ilovestudy.github.io/richardresume.io/gong_hanjin_english.pdf) ·
+[Read my CV](https://richardgong1987.github.io/resume/) ·
+[Download CV (PDF)](https://richardgong1987.github.io/resume/gong_hanjin_english.pdf) ·
 [LinkedIn](https://www.linkedin.com/in/hanjin-gong-algorithms/) ·
 [Email](mailto:richardgong1988@gmail.com)
 
@@ -38,4 +38,4 @@ Alongside my professional work, I develop **automated trading strategies in C# w
 - **Languages:** English (fluent) and Chinese (native).
 - **Opportunities:** Senior backend, full-stack and financial-software engineering roles, especially in trading, risk and market-data systems. Open to relocation to the **UK, Canada or Australia**.
 
-For relevant opportunities, contact me through [LinkedIn](https://www.linkedin.com/in/hanjin-gong-algorithms/) or [email](mailto:richardgong1988@gmail.com). My [full CV](https://ilovestudy.github.io/richardresume.io/) contains the detailed employment history.
+For relevant opportunities, contact me through [LinkedIn](https://www.linkedin.com/in/hanjin-gong-algorithms/) or [email](mailto:richardgong1988@gmail.com). My [full CV](https://richardgong1987.github.io/resume/) contains the detailed employment history.
