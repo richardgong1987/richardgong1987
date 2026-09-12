@@ -26,14 +26,6 @@ through to the browser.
 - **Distributed backends** — event-driven microservices, CQRS, Kafka, Redis, kdb+/q tick stores, gRPC, FIX 4.4
 - **Platform & delivery** — Docker, Kubernetes, AWS, Azure, GitLab CI/CD, Jenkins, Ansible, Terraform, Datadog
 
-### Selected work
-
-| | |
-|---|---|
-| **[myownquantlib](https://github.com/richardgong1987/myownquantlib)** | Quantitative finance library in modern C++ on top of QuantLib — bootstrapped yield curves and vanilla option pricing, built with CMake + vcpkg |
-| **[algorithm-datastructure-solutions](https://github.com/richardgong1987/algorithm-datastructure-solutions)** | Algorithm and data-structure practice in Java |
-| **[RuoYi-Cloud-shop](https://github.com/richardgong1987/RuoYi-Cloud-shop)** | Spring Cloud microservice e-commerce platform |
-
 ### Tech
 
 ![Java](https://img.shields.io/badge/Java-16%20yrs-007396?style=flat-square&logo=openjdk&logoColor=white)
