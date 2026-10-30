@@ -15,7 +15,7 @@ I build financial software that connects investment operations, analytics, backe
 
 My recent work spans **fixed-income portfolio and benchmark analysis, pricing and risk analytics, investment order workflows, securities lending, cash management, and integrations with established trading systems**. I work across the delivery lifecycle, from understanding requirements and implementing features to integration, testing and deployment automation.
 
-My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS, Next.js, Angular, QuantLib and enterprise deployment tooling**. I also explore Go, C#, Rust and Jason/AgentSpeak through earlier work, personal research and academic study. I select technologies to suit the problem rather than a single language stack.
+My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS, Next.js, Angular, QuantLib and enterprise deployment tooling**. My broader technical toolkit also includes **Go (Golang), C#, Rust, Jason/AgentSpeak and Prolog**, developed through earlier work, independent projects and academic study. I select technologies to suit the problem rather than a single language stack.
 
 ## Engineering focus
 
@@ -28,7 +28,7 @@ My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS
 
 | Area | Tools and technologies |
 | --- | --- |
-| Programming languages | Java, Python, Go, TypeScript/JavaScript, C#, Rust, Jason/AgentSpeak; additional study in Prolog |
+| Programming languages | **Java, Python, Go (Golang), TypeScript/JavaScript, C#, Rust, Jason/AgentSpeak and Prolog** |
 | Backend and APIs | Spring Boot, Javalin, FastAPI, Flask, Node.js, NestJS, Express, Axum |
 | Frontend | React, Next.js, Angular |
 | Data and messaging | SQL, Oracle, MySQL, Redis, Kafka, RabbitMQ, kdb+/q, REST, gRPC |
