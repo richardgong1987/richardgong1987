@@ -11,17 +11,17 @@ Tokyo, Japan · 18 years of software development experience · Open to relocatio
 [LinkedIn](https://www.linkedin.com/in/hanjin-gong-algorithms/) ·
 [Email](mailto:richardgong1988@gmail.com)
 
-I build financial applications that connect trading and risk requirements with backend services, data pipelines and usable interfaces. My background spans **investment banking, retail banking, payments and consumer platforms**, including engineering work at **Nomura, HSBC and Ctrip**.
+I build financial software that connects investment operations, analytics, backend services, batch processing and usable interfaces. My experience spans **investment banking, retail banking, payments and consumer platforms**, including work at **Nomura, HSBC and Ctrip**.
 
-My financial-software work includes **Japanese government bond (JGB) portfolio optimisation and risk analytics**, using Python and CVXPY alongside backend and trader-facing application development. I work across the delivery lifecycle: understanding requirements, implementing features, integrating systems and automating deployment.
+My recent work spans **fixed-income portfolio and benchmark analysis, pricing and risk analytics, investment order workflows, securities lending, cash management, and integrations with established trading systems**. I work across the delivery lifecycle, from understanding requirements and implementing features to integration, testing and deployment automation.
 
-Proficient in **Java, Python, Go, TypeScript/JavaScript, C#, Rust and Jason/AgentSpeak**, with experience spanning professional delivery, independent research and academic work. I select languages and tools to suit the problem, working across financial systems, backend services, full-stack applications, quantitative development and multiagent systems.
+My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS, Next.js, Angular, QuantLib and enterprise deployment tooling**. I also explore Go, C#, Rust and Jason/AgentSpeak through earlier work, personal research and academic study. I select technologies to suit the problem rather than a single language stack.
 
 ## Engineering focus
 
-- **Financial systems:** portfolio optimisation, fixed-income risk, scenario PnL, market data and trading workflows.
-- **Backend and full-stack delivery:** API design, data integration, asynchronous and concurrent programming, and frontend applications.
-- **Delivery automation:** GitLab CI/CD, Jenkins and Ansible, with Docker and Kubernetes for containerised environments.
+- **Investment and trading systems:** fixed-income pricing and risk, portfolio and benchmark analysis, securities lending, cash forecasting, order simulation and operational integration.
+- **Backend and full-stack delivery:** APIs, TypeScript/Node.js services, Angular and Next.js interfaces, SQL Server integration and Python financial processing.
+- **Release engineering:** GitLab CI/CD, Jenkins, Ansible, Docker and controlled Linux/Windows deployment workflows.
 - **Reasoning and intelligent systems:** logic programming, BDI agents, automated reasoning and multiagent coordination.
 
 ## Technical toolkit
@@ -32,9 +32,9 @@ Proficient in **Java, Python, Go, TypeScript/JavaScript, C#, Rust and Jason/Agen
 | Backend and APIs | Spring Boot, Javalin, FastAPI, Flask, Node.js, NestJS, Express, Axum |
 | Frontend | React, Next.js, Angular |
 | Data and messaging | SQL, Oracle, MySQL, Redis, Kafka, RabbitMQ, kdb+/q, REST, gRPC |
-| Quantitative development | CVXPY, NumPy, pandas, portfolio optimisation, risk analytics, cTrader Automate, MetaTrader 5 (MT5) |
+| Quantitative development | QuantLib, NumPy, pandas, fixed-income pricing, yield curves, portfolio and risk analytics; CVXPY and trading research |
 | Programming approaches | Object-oriented and functional programming, async/concurrency, ownership and borrowing, logic programming, BDI |
-| Infrastructure and delivery | Docker, Kubernetes, GitLab CI/CD, Jenkins, Ansible, AWS, Azure |
+| Infrastructure and delivery | Docker, GitLab CI/CD, Jenkins, Ansible, Linux, Windows Server; additional exposure to Kubernetes, AWS and Azure |
 
 ## Independent Research
 
