@@ -1,6 +1,6 @@
 # Hanjin Gong (Richard Gong)
 
-**Senior Software Engineer | Financial Systems, Backend & Full-Stack Development**
+**Senior Software Engineer | Financial Systems | AI & Intelligent Agents | Cloud & Distributed Systems**
 
 Tokyo, Japan · 18 years of software development experience · Open to relocation
 
@@ -22,7 +22,8 @@ My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS
 - **Investment and trading systems:** fixed-income pricing and risk, portfolio and benchmark analysis, securities lending, cash forecasting, order simulation and operational integration.
 - **Backend and full-stack delivery:** APIs, TypeScript/Node.js services, Angular and Next.js interfaces, SQL Server integration and Python financial processing.
 - **Release engineering:** GitLab CI/CD, Jenkins, Ansible, Docker and controlled Linux/Windows deployment workflows.
-- **Reasoning and intelligent systems:** logic programming, BDI agents, automated reasoning and multiagent coordination.
+- **Artificial intelligence and reasoning:** knowledge representation, deductive and practical reasoning, logic programming, BDI agents, reactive/hybrid agents and multiagent coordination (MSc study and independent research).
+- **Cloud and distributed systems:** postgraduate cloud-computing study alongside practical backend, deployment automation and production operations experience.
 
 ## Technical toolkit
 
@@ -36,6 +37,10 @@ My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS
 | Programming approaches | Object-oriented and functional programming, async/concurrency, ownership and borrowing, logic programming, BDI |
 | Infrastructure and delivery | Docker, GitLab CI/CD, Jenkins, Ansible, Linux, Windows Server; additional exposure to Kubernetes, AWS and Azure |
 
+## AI, Reasoning & Cloud Computing
+
+My University of Liverpool MSc Computer Science studies and independent research extend beyond conventional application development into **artificial intelligence, knowledge representation, automated reasoning, intelligent agents, machine-learning foundations and cloud computing**. I study **Jason/AgentSpeak and Prolog** for logic-based and BDI agent behaviour, while exploring how cloud and distributed architectures relate to scalable, reliable software. Academic and research experience is distinguished from commercial production delivery.
+
 ## Independent Research
 
 - **Algorithmic trading with cTrader and MetaTrader 5 (MT5):** Research automated trading strategies, signal generation, order execution, position sizing and risk management, using backtesting and forward evaluation to examine strategy behaviour.
@@ -46,7 +51,7 @@ My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS
 ## Background and contact
 
 - **Education:** MSc Computer Science, University of Liverpool — expected 2027.
-- **Current study:** Multiagent systems, Prolog and Jason/AgentSpeak, machine-learning mathematics, human-computer interaction and accessibility evaluation.
+- **Current study:** Artificial intelligence, automated reasoning, multiagent systems, Prolog and Jason/AgentSpeak, machine-learning mathematics, cloud computing, human-computer interaction and accessibility evaluation.
 - **Languages:** English (fluent) and Chinese (native).
 - **Opportunities:** Senior backend, full-stack and financial-software engineering roles, especially in trading, risk and market-data systems. Open to relocation to the **UK, Canada or Australia**.
 
