@@ -1,6 +1,6 @@
 # Hanjin Gong (Richard Gong)
 
-**Senior Software Engineer | Financial Systems, Backend & Full-Stack Development**
+**Senior Software Engineer | Financial Systems | AI & Intelligent Agents | Cloud & Distributed Systems**
 
 Tokyo, Japan · 18 years of software development experience · Open to relocation
 
@@ -15,26 +15,31 @@ I build financial software that connects investment operations, analytics, backe
 
 My recent work spans **fixed-income portfolio and benchmark analysis, pricing and risk analytics, investment order workflows, securities lending, cash management, and integrations with established trading systems**. I work across the delivery lifecycle, from understanding requirements and implementing features to integration, testing and deployment automation.
 
-My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS, Next.js, Angular, QuantLib and enterprise deployment tooling**. I also explore Go, C#, Rust and Jason/AgentSpeak through earlier work, personal research and academic study. I select technologies to suit the problem rather than a single language stack.
+My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS, Next.js, Angular, QuantLib and enterprise deployment tooling**. My broader technical toolkit also includes **Go (Golang), C#, Rust, Jason/AgentSpeak and Prolog**, developed through earlier work, independent projects and academic study. I select technologies to suit the problem rather than a single language stack.
 
 ## Engineering focus
 
 - **Investment and trading systems:** fixed-income pricing and risk, portfolio and benchmark analysis, securities lending, cash forecasting, order simulation and operational integration.
 - **Backend and full-stack delivery:** APIs, TypeScript/Node.js services, Angular and Next.js interfaces, SQL Server integration and Python financial processing.
 - **Release engineering:** GitLab CI/CD, Jenkins, Ansible, Docker and controlled Linux/Windows deployment workflows.
-- **Reasoning and intelligent systems:** logic programming, BDI agents, automated reasoning and multiagent coordination.
+- **Artificial intelligence and reasoning:** knowledge representation, deductive and practical reasoning, logic programming, BDI agents, reactive/hybrid agents and multiagent coordination (MSc study and independent research).
+- **Cloud and distributed systems:** postgraduate cloud-computing study alongside practical backend, deployment automation and production operations experience.
 
 ## Technical toolkit
 
 | Area | Tools and technologies |
 | --- | --- |
-| Programming languages | Java, Python, Go, TypeScript/JavaScript, C#, Rust, Jason/AgentSpeak; additional study in Prolog |
+| Programming languages | **Java, Python, Go (Golang), TypeScript/JavaScript, C#, Rust, Jason/AgentSpeak and Prolog** |
 | Backend and APIs | Spring Boot, Javalin, FastAPI, Flask, Node.js, NestJS, Express, Axum |
 | Frontend | React, Next.js, Angular |
 | Data and messaging | SQL, Oracle, MySQL, Redis, Kafka, RabbitMQ, kdb+/q, REST, gRPC |
 | Quantitative development | QuantLib, NumPy, pandas, fixed-income pricing, yield curves, portfolio and risk analytics; CVXPY and trading research |
 | Programming approaches | Object-oriented and functional programming, async/concurrency, ownership and borrowing, logic programming, BDI |
 | Infrastructure and delivery | Docker, GitLab CI/CD, Jenkins, Ansible, Linux, Windows Server; additional exposure to Kubernetes, AWS and Azure |
+
+## AI, Reasoning & Cloud Computing
+
+My University of Liverpool MSc Computer Science studies and independent research extend beyond conventional application development into **artificial intelligence, knowledge representation, automated reasoning, intelligent agents, machine-learning foundations and cloud computing**. I study **Jason/AgentSpeak and Prolog** for logic-based and BDI agent behaviour, while exploring how cloud and distributed architectures relate to scalable, reliable software. Academic and research experience is distinguished from commercial production delivery.
 
 ## Independent Research
 
@@ -46,7 +51,7 @@ My professional work includes **Java, Python, TypeScript/JavaScript, SQL, NestJS
 ## Background and contact
 
 - **Education:** MSc Computer Science, University of Liverpool — expected 2027.
-- **Current study:** Multiagent systems, Prolog and Jason/AgentSpeak, machine-learning mathematics, human-computer interaction and accessibility evaluation.
+- **Current study:** Artificial intelligence, automated reasoning, multiagent systems, Prolog and Jason/AgentSpeak, machine-learning mathematics, cloud computing, human-computer interaction and accessibility evaluation.
 - **Languages:** English (fluent) and Chinese (native).
 - **Opportunities:** Senior backend, full-stack and financial-software engineering roles, especially in trading, risk and market-data systems. Open to relocation to the **UK, Canada or Australia**.
 
